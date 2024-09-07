@@ -1,0 +1,1 @@
+The .xlsx file contains the data used to analyze the interaction of environmental enrichment on adgr3.1 knockout zebrafish. The first spreadsheet shows the data from the Open Field and the second spreadsheet shows the data from the 5-CSRTT test.
